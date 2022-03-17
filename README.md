@@ -14,3 +14,5 @@ Data are also collected for book chapters and preprints.
 
 ![**Crossref coverage of funding information - comparison to Covid-19 papers in [arXiv:2202.11639](https://arxiv.org/abs/2202.11639)** ](figures/crossref_funder_info_cf_arxiv_2202_11639.svg)
 
+
+
