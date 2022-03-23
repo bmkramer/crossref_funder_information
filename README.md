@@ -16,13 +16,13 @@ Differences between publishers could reflect:
 -  differences in publisher systems/workflows for submitting funder information as part of Crossref metadata  
 
 
-## Comparison to   
+## Comparison to other data
 
 Recently, Alexis-Michel Mugabushaka, Nees Jan van Eck, Ludo Waltman looked at funding information in Crossref for Covid-19 research (arXiv: https://doi.org/10.48550/arXiv.2202.11639). Their corpus consisted of publications in the [CORD-19 dataset](https://allenai.org/data/cord-19) that were published in 2020-2021 and were included in Crossref as well as in Scopus and Web of Science. 
 
 For this corpus, they found somewhat lower proportions of funding information in Crossref for most publishers than the proportion observed when looking at all journal articles in Crossreef for the most recent years (see figure below). 
 
-Part of this is explained by the fact that Mugabushaka et al. looked at the presence of Fundref IDs specifically, not just the presence of funder names. In addition, observed differences could be due to specific characteristics of how and where COVID-19 research was funded and published, and/or the limitation of the subset of articles and journals also indexed in Scopus and Web of Science.    
+Part of this is explained by the fact that Mugabushaka et al. looked at the presence of Fundref IDs specifically, not just the presence of funder names. In addition, observed differences could be due to specific characteristics of how and where COVID-19 research was funded and published, and/or the specific subset of articles and journals (those also indexed in Scopus and Web of Science).
 
 ![**Crossref coverage of funding information - comparison to Covid-19 papers in [arXiv:2202.11639](https://arxiv.org/abs/2202.11639)** ](figures/crossref_funder_info_cf_arxiv_2202_11639.svg)
 
