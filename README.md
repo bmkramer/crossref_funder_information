@@ -10,16 +10,16 @@ Differences between publishers could reflect:
 -  disciplinary differences in the proportion of research output resulting from (external) funding  
 -  differences in proportion of research articles vs. 'paratext' (editorials, letters, etc) in journals  
 -  differences in publisher/journal practices requesting funder information from authors  
--  differences in publisher systems/workflows in submitting funder information as part of Crossref metadata  
+-  differences in publisher systems/workflows for submitting funder information as part of Crossref metadata  
 
 
 Recently, Alexis-Michel Mugabushaka, Nees Jan van Eck, Ludo Waltman looked at funding information in Crossref for Covid-19 research (arXiv: https://doi.org/10.48550/arXiv.2202.11639). Their corpus consisted of COVID-19-related publications published in 2020-2021 that were included in Crossref as well as in Scopus and Web of Science. 
 
 For this corpus, they found somewhat lower proportions of funding information in Crossref for most publishers than the proportion observed when looking at all journal articles in Crossreef for the most recent years (see figure below). 
 
-Part of this is explained by the fact that Mugabushaka et al. looked at the presence of Fundref IDs specifically, not just the presence of funder names. In addition, observed differences could be due to specific characteristics of how and where COVID-19 publications was funded and published, and/or the selection of a subset of articles and journals also indexed in Scopus and Web of Science.    
+Part of this is explained by the fact that Mugabushaka et al. looked at the presence of Fundref IDs specifically, not just the presence of funder names. In addition, observed differences could be due to specific characteristics of how and where COVID-19 publications was funded and published, and/or the selection of the subset of articles and journals also indexed in Scopus and Web of Science.    
 
 ![**Crossref coverage of funding information - comparison to Covid-19 papers in [arXiv:2202.11639](https://arxiv.org/abs/2202.11639)** ](figures/crossref_funder_info_cf_arxiv_2202_11639.svg)
 
-
+Regardless of differences observed
 
