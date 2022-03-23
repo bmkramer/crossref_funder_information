@@ -1,8 +1,10 @@
 # Crossref funder information per publisher
 
+Funder information, provided by publishers, is one of the types of metadata included in Crossref. Coverage of funder information currently varies considerably between publishers.
+
 This repo contains data and code for querying the Crossref API for proportion of current journal articles (current year and 2 previous years) with funding information, per Crossref member ID. Data are also collected for book chapters and preprints.
 
-At the time of sampling (March 15, 2022), **25.2% of journal articles published in 2020-2022** had funding information available in Crossref. The following figure shows the proportion of journal articles from selected major publishers published between 2020 and 2022 that had funding information available.
+At the time of sampling (March 15, 2022), **25.2% of journal articles published in 2020-2022** had funding information available in Crossref. The following figure shows the proportion of journal articles from selected major publishers published between 2020-2022 that had funding information available.
 
 ![](figures/crossref_members_funder_info.svg)
 
