@@ -286,7 +286,7 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 793,Springer Publishing Company,4863,FALSE,0
 18929,JLE,4850,TRUE,0.002
 18454,Universitas Malahayati Bandar Lampung,4821,FALSE,0
-27665,RSIS International,4799,FALSE,0
+27665,RSIS International,4816,FALSE,0
 252,Environmental Health Perspectives,4774,FALSE,0
 20123,Maad Rayan Publishing Company,4769,FALSE,0
 9621,PubPub,4735,FALSE,0
@@ -817,9 +817,9 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 16652,National University of Life and Environmental Sciences of Ukraine,1649,FALSE,0
 25237,Instituto de Pesquisa Economica Aplicada - IPEA,1644,FALSE,0
 7526,Felipe Herrera Library (Inter-American Development Bank),1640,FALSE,0
+27568,Information Technology and Science (ITScience),1638,FALSE,0
 5401,University of Szeged,1637,TRUE,0.206
 27980,Taru Publications,1636,TRUE,0.001
-27568,Information Technology and Science (ITScience),1627,FALSE,0
 6181,"DiscoverSys, Inc.",1625,FALSE,0
 12039,Universitas Muhammadiyah Gresik,1624,FALSE,0
 6474,International Academy of Theoretical and Applied Sciences,1621,FALSE,0
@@ -1647,11 +1647,11 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 10356,Institut Agama Islam Negeri (IAIN) Palopo,777,FALSE,0
 10886,National Society for Cutaneous Medicine,777,FALSE,0
 11453,LP2M IAIN Pekalongan,777,FALSE,0
+27635,Training & Research Institute Jeramba Ilmu Sukses,777,FALSE,0
 10698,Vietnam National University Journal of Science,776,FALSE,0
 23469,"Faculty of Teacher Training and Education, Universitas Palangka Raya",776,FALSE,0
 22360,International Display Workshops General Incorporated Association,775,FALSE,0
 22301,MPM Comunicacao,774,TRUE,0.008
-27635,Training & Research Institute Jeramba Ilmu Sukses,774,FALSE,0
 36908,Medan Resource Center,774,FALSE,0
 11167,Pan American Health Organization,773,FALSE,0
 27750,Mattioli1885,773,FALSE,0
@@ -2003,6 +2003,7 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 27448,EDITORA SCIENTIFIC,635,FALSE,0
 32956,utb GmbH,635,FALSE,0
 24457,Bastas Publications,634,FALSE,0
+27557,University of the Philippines Manila,634,FALSE,0
 30480,Encontrografia Editora Ltda,634,FALSE,0
 1941,Leibniz Institute for Psychology (ZPID),633,TRUE,0.013
 3975,ALife Robotics Corporation Ltd.,633,FALSE,0
@@ -2047,7 +2048,6 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 4977,Engineering and Technology Publishing,619,FALSE,0
 6175,Polish Information Processing Society PTI,619,FALSE,0
 7412,The Ohio State University Libraries,619,FALSE,0
-27557,University of the Philippines Manila,618,FALSE,0
 34546,International Journal of Clinical Science and Medical Research,618,FALSE,0
 9783,Computing in Cardiology,617,FALSE,0
 10976,McGill University Library and Archives,616,TRUE,0.065
@@ -4702,6 +4702,7 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 18255,Universitas Fort De Kock,222,FALSE,0
 23657,Union of Researchers of Macedonia,222,FALSE,0
 24940,Hatay Mustafa Kemal University,222,TRUE,0.27
+27639,Universidad Privada de Tacna,222,FALSE,0
 36850,International Viticulture and Enology Society,222,FALSE,0
 36981,Editorial Cuadernos de Sofia,222,FALSE,0
 39331,Revista Social Fronteriza,222,FALSE,0
@@ -4858,7 +4859,6 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 16236,Edizioni Danaus sas,212,FALSE,0
 25131,Anatolian Current Medical Journal,212,TRUE,0.255
 26052,World Resources Institute,212,FALSE,0
-27639,Universidad Privada de Tacna,212,FALSE,0
 28469,Universitas Bina Insani,212,FALSE,0
 30532,"Periodic Publication Journal of Science, Innovation, Culture and Art &quot;SCIENCE and INNOVATION&quot;",212,FALSE,0
 32102,"Physical Education and Sport Sciences College for Women, Baghdad University",212,FALSE,0
@@ -5335,6 +5335,7 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 24522,Research India Publications,186,FALSE,0
 26166,Iskusstvo Evrazii,186,FALSE,0
 26488,"Vestnik RGUPS, Rostov State Transport University",186,FALSE,0
+27655,Sumerianz Publication,186,FALSE,0
 27801,Iquz Galaxy Publisher,186,FALSE,0
 28921,Gomel State Medical University,186,FALSE,0
 32851,"Fundacao de Apoio a Pesquisa, Tecnologia e Inovacao",186,FALSE,0
@@ -5528,7 +5529,6 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 22491,Pakistan Society of Neurosurgeons,178,FALSE,0
 25613,Coordinacion de Investigacion e Innovacion UPEL-IPB,178,TRUE,0.006
 26306,Ukrainian Military Medical Academy,178,FALSE,0
-27655,Sumerianz Publication,178,FALSE,0
 28286,Academy of Family Physicians of Malaysia,178,FALSE,0
 29223,Academic Journal Publishing,178,FALSE,0
 33101,"Institute of Art History, Czech Academy of Sciences",178,FALSE,0
@@ -6973,6 +6973,7 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 25317,Korean Public Law Association,130,FALSE,0
 25402,Institut Shanti Bhuana,130,FALSE,0
 27427,Istanbul Bilgi University,130,FALSE,0
+27527,University of Baghdad - Al-Kindy College of Medicine,130,FALSE,0
 30373,MO.RI Publishing,130,FALSE,0
 30840,Dunya Congress,130,TRUE,0.215
 31525,Instituto de Investigacion y Capacitacion Profesional del Pacifico,130,FALSE,0
@@ -7567,7 +7568,6 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 23040,Real Time EOOD,116,FALSE,0
 23567,STIT Muhammadiyah Paciran,116,FALSE,0
 26323,Joint Institute of Mechanical Engineering of the National Academy of Sciences of Belarus,116,FALSE,0
-27527,University of Baghdad - Al-Kindy College of Medicine,116,FALSE,0
 27810,"Vietnamese Journal of Food Control, National Institute for Food Control",116,FALSE,0
 28744,"School of Statistics, Renmin University of China",116,FALSE,0
 32078,World Society for Ekistics: Oceanic Group,116,FALSE,0
@@ -12920,6 +12920,7 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 27187,European Association for Studies in Screen Translation,48,FALSE,0
 27297,The Northeast Asia Association of Ancient History,48,FALSE,0
 27298,Sekolah Tinggi Ilmu Kesehatan Respati,48,FALSE,0
+27630,Whitehouse Publishing,48,FALSE,0
 27813,"Scandia: Tidskrift for historisk forskning, Lund University",48,FALSE,0
 27880,Interregional Association of State and Law Theorists,48,FALSE,0
 28037,Sociedad Argentina de Nutricion,48,FALSE,0
@@ -13179,7 +13180,6 @@ id,primary_name,count_current_type,deposits_funders_current,funders_current_type
 26871,Pivot Science Publications Corporation,46,TRUE,0.152
 26944,"Archeologicky ustav AV CR, Brno, v. v. i.",46,FALSE,0
 26997,UNIKA Journal of Health Sciences,46,FALSE,0
-27630,Whitehouse Publishing,46,FALSE,0
 28252,Tugba Yanpar Yelken,46,TRUE,0.065
 28621,Pusat Pungutan Zakat (PPZ-MAIWP),46,FALSE,0
 29035,Konsorsium Cendekiawan Indonesia,46,FALSE,0
